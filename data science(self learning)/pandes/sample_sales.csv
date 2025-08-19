@@ -1,0 +1,7 @@
+OrderID,Date,Customer,Product,Quantity,Price
+101,2025-08-01,Alice,Laptop,1,800
+102,2025-08-02,Bob,Mouse,2,20
+103,2025-08-02,Charlie,Keyboard,1,50
+104,2025-08-03,Alice,Monitor,2,200
+105,2025-08-04,Eve,Headphones,3,30
+106,2025-08-04,Frank,Laptop,1,850
