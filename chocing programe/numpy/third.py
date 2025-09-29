@@ -37,3 +37,4 @@ print(arrary1,arrary1.shape)
 # ones and zeroes 
 print(np.ones(10, dtype=int))
 print(np.zeros(10,dtype=int))
+# some new methods 
