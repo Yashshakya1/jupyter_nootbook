@@ -1,0 +1,1 @@
+arr = np.random.randint(30,40,10)
