@@ -11,5 +11,5 @@ print(arr)
 # full function
 # np.full(shape,value)
 
-arr = np.full((3,3),18)
+arr = np.full((2,2),18)
 print(arr)
