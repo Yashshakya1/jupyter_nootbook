@@ -16,5 +16,8 @@ print(np.nan_to_num(arr, nan = 5))
 
 # 3.
 # np.isinf is used for detect the infinite values in the array 
-array = np.array([1,2,np.inf,5,np.inf,48,np.inf])
+array = np.array([1,2,np.inf,5,-np.inf,48,np.inf])
 print(np.isinf(array))
+
+# replace the infinite values
+print(np.nan_to_num(array,posinf = 100,neginf = 100))
