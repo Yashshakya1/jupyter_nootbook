@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd 
  # load the 1m employee data set 
-Dataset = pd.read_csv("employee_data_100k.csv")
+Dataset = pd.read_csv("employee_data_100k.csv",encoding="latin1")
 print(Dataset)
 
 # clean the data set
