@@ -1,0 +1,16 @@
+🎯 EDA = Exploratory Data Analysis
+
+Definition:
+
+Exploratory Data Analysis (EDA)** is the process of exploring and understanding a dataset before applying any machine learning or statistical model.
+👉 It’s the first and most important step in data science — where you understand what your data looks like, what’s missing, what’s wrong, and what’s interesting.
+
+| Goal                             | Description                                  |
+| -------------------------------- | -------------------------------------------- |
+| 1️⃣ Understand the data          | What columns do we have? What types of data? |
+| 2️⃣ Detect missing or wrong data | NaNs, outliers, wrong formats                |
+| 3️⃣ Find patterns                | Relationships between features               |
+| 4️⃣ Generate insights            | What factors affect the target variable      |
+| 5️⃣ Prepare data                 | Clean and transform for model training       |
+
+
