@@ -16,4 +16,5 @@ VALUES('YASH','YASHSHAKYA787@GMAIL.COM','MANGALWARA GAIN MANDIR ROAD HOUSE NO 13
 ('PINLKY','YASHSHAKYA787@GMAIL.COM','MANGALWARA GAIN MANDIR ROAD HOUSE NO 13 GALI NO 1');
 select NAME FROM CUSTOMERS;
 select distinct name,address FROM CUSTOMERS;
-
+select * from customers where name like 'y%';
+select * from customers where name like '%y%'; 
